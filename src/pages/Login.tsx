@@ -12,7 +12,7 @@ import {
   Shield,
   GraduationCap,
   Users,
-  Sparkles,
+  BookOpen,
   CheckCircle2,
   ArrowRight,
   Zap
