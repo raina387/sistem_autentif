@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { useAuth } from '../contexts/AuthContext';
 import { useNavigate, useLocation, Navigate } from 'react-router-dom';
@@ -10,7 +10,6 @@ import {
   Eye, 
   EyeOff,
   Shield,
-  BookOpen,
   GraduationCap,
   Users,
   Sparkles,

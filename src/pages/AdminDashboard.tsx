@@ -16,7 +16,6 @@ import {
   TrendingUp,
   Activity,
   UserCheck,
-  UserX,
   BarChart3,
   Award,
   Clock

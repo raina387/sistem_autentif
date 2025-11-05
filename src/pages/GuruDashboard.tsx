@@ -7,7 +7,6 @@ import {
   LogOut, 
   User as UserIcon, 
   Users, 
-  BookOpen,
   Search,
   Edit,
   Save,
